@@ -9,7 +9,7 @@ This generates this file:
 
 ```tests/acceptance/login-test.js
 import { test } from 'qunit';
-import moduleForAcceptance from 'people/tests/helpers/module-for-acceptance';
+import moduleForAcceptance from 'myemberapp/tests/helpers/module-for-acceptance';
 
 moduleForAcceptance('Acceptance | login');
 
